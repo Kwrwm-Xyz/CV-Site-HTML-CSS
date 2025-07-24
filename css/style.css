@@ -116,7 +116,7 @@ a:hover{
 .mountain{
     width: 70%;
     height: 70%;
-    bottom: 0px;
+    margin: auto auto 0px;
 }
 
 .introo{
